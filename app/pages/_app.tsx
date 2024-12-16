@@ -7,6 +7,8 @@ import {
 } from '@clerk/nextjs'
 import {AppProps} from 'next/app';
 import '@/styles/globals.css'
+
+// import google font
 // import {
 //     Varela_Round,
 // } from 'next/font/google';
